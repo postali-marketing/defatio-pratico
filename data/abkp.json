@@ -1,0 +1,86 @@
+{
+	"1": {
+		"nome": "João Silva",
+		"turma": "2",
+		"sexo": "m",
+		"nascimento": "2000-04-03"
+	},
+	"2": {
+		"nome": "Jéssica Pereira",
+		"turma": "2",
+		"sexo": "f",
+		"nascimento": "2000-04-03"
+	},
+	"3": {
+		"nome": "Ana Souza Coutinho",
+		"turma": "1",
+		"sexo": "f",
+		"nascimento": "2000-06-16"
+	},
+	"4": {
+		"nome": "Pablo Hill",
+		"turma": "2",
+		"sexo": "m",
+		"nascimento": "2000-01-23"
+	},
+	"5": {
+		"nome": "Helena Guedes",
+		"turma": "1",
+		"sexo": "f",
+		"nascimento": "2000-02-02"
+	},
+	"6": {
+		"nome": "Ana Joaquina Telles Souza",
+		"turma": "2",
+		"sexo": "f",
+		"nascimento": "2000-11-17"
+	},
+	"7": {
+		"nome": "Solange Amaral",
+		"turma": "2",
+		"sexo": "f",
+		"nascimento": "2001-12-14"
+	},
+	"8": {
+		"nome": "Bernardo Lucca Oliveira",
+		"turma": "1",
+		"sexo": "m",
+		"nascimento": "2001-09-22"
+	},
+	"9": {
+		"nome": "Kaique Oliveira",
+		"turma": "2",
+		"sexo": "m",
+		"nascimento": "2000-03-04"
+	},
+	"10": {
+		"nome": "Milena Pereira",
+		"turma": "1",
+		"sexo": "f",
+		"nascimento": "1995-05-01"
+	},
+	"11": {
+		"nome": "Caio Augusto Neves",
+		"turma": "1",
+		"sexo": "m",
+		"nascimento": "1999-03-12"
+	},
+	"12": {
+		"nome": "Emílio Braga",
+		"turma": "2",
+		"sexo": "m",
+		"nascimento": "1993-02-01"
+	},
+	"13": {
+		"nome": "Talita Sousa",
+		"turma": "1",
+		"sexo": "f",
+		"nascimento": "2000-06-08"
+	},
+	"14": {
+		"nome": "Sabrina Otto",
+		"turma": "1",
+		"sexo": "f",
+		"nascimento": "2002-09-25"
+	}
+}

@@ -1,0 +1,9 @@
+<IfModule mod_rewrite.c>
+	
+### Habilitar a reescrita de URL
+	RewriteEngine On
+
+### Redirecionar transações
+	RewriteRule ^request\/(.*)\/(.*)$ request.php?controller=$1&function=$2 [NC,QSA,L]
+
+</IfModule>
